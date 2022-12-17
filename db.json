@@ -1,4 +1,5 @@
-{
+"posts" : [
+   {
    "name": "iPhone", 
    "description": "iPhone is the stylist phone ever", 
    "price": 1000, 
@@ -21,5 +22,6 @@
    "description": "Pendrive is useful storage medium", 
    "price": 100, 
    "image": "pendrive.png" 
-   }, 
+   }
+   ]
 
